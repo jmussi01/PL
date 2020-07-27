@@ -1,2 +1,2 @@
 # PL
-PL course from University of Washington
+PL course from University of Washington - Part A
